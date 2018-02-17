@@ -4,7 +4,7 @@ function lowerCaseDrivers(drivers){
 };
 
 function nameToAttributes(drivers){
-  const splitDrivers = drivers.map(driver =>);
+  splitDrivers = drivers.map(driver =>);
 };
 
 function attributesToPhrase(){};
