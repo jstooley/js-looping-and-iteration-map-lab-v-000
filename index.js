@@ -1,5 +1,6 @@
 function lowerCaseDrivers(drivers){
-  drivers.map( driver => driver.toLowerCase();)
+  lowerDrivers = drivers.map( driver => driver.toLowerCase());
+  return lowerDrivers;
 };
 
 function nameToAttributes(){};
