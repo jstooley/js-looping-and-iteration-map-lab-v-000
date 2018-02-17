@@ -9,8 +9,8 @@ function nameToAttributes(drivers) {
         const last = driver.split(' ')[1];
         return {firstName: first, lastName: last};
     });
-}
+};
 
 function attributesToPhrase(drivers){
-  
+  return drivers.map(driver => {});
 };
