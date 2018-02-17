@@ -1,10 +1,10 @@
 function lowerCaseDrivers(drivers){
-  lowerDrivers = drivers.map( driver => driver.toLowerCase());
+  const lowerDrivers = drivers.map( driver => driver.toLowerCase());
   return lowerDrivers;
 };
 
 function nameToAttributes(drivers){
-  splitDrivers = drivers.map(driver =>);
+  const splitDrivers = drivers.map(driver =>);
 };
 
 function attributesToPhrase(){};
