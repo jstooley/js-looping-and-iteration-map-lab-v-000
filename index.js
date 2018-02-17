@@ -8,7 +8,7 @@ function nameToAttributes(drivers) {
         const first = driver.split(' ')[0];
         const last = driver.split(' ')[1];
 
-        new_drivers = {firstName: first, lastName: last};
+        {firstName: first, lastName: last};
     });
 }
 
