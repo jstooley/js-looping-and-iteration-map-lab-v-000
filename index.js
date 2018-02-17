@@ -1,5 +1,5 @@
 function lowerCaseDrivers(drivers){
-  let lowerDrivers = drivers.map( driver => driver.toLowerCase());
+  lowerDrivers = drivers.map( driver => driver.toLowerCase());
   return lowerDrivers;
 };
 
