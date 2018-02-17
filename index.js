@@ -3,8 +3,5 @@ function lowerCaseDrivers(drivers){
   return lowerDrivers;
 };
 
-function nameToAttributes(drivers){
-  splitDrivers = drivers.map(driver =>)
-};
 
 function attributesToPhrase(){};
